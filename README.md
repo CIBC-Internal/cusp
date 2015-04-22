@@ -4,11 +4,4 @@ This is a matrix/array library used across the several GPUTUM solvers: FEM, Eiko
 Instructions
 ============
 
-In order to build, you can simply include this as an external project.
-
-You can also build manually.
-
-```c++
-cmake .
-make
-```
+In order to build, you can simply include this as an external project. You only need to set this root directory as an include directory.
